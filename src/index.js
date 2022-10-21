@@ -12,7 +12,6 @@ const App = () => {
                 <NavBar />
                 <RoutesMain />
             </Router>
-            hello
         </div>
     )
 }
